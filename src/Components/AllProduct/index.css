@@ -1,0 +1,86 @@
+.allproduct .productBox{
+    width: 261px;
+    height:410px ;
+    border-radius: 10px;
+    border: 1px solid  #A7A7A7;
+    background: #FFF;
+}
+.allproduct .productBox img {
+    width: 259px;
+    height: 207px;
+    border-radius: 10px 10px 0px 0px;
+    object-fit: cover;
+}
+.allproduct .productBox .product-name{
+    font-size: 16px;
+    font-weight: 500;
+}
+.allproduct .productBox .productCase span{
+    font-size: 18px;
+    font-weight: 500;
+}
+.allproduct .productBox .productCase p{
+    font-size: 10px;
+    font-weight: 400;
+    color: #D8A459;
+}
+.allproduct .productBox h6{
+    color: #949494;
+    font-size: 12px;
+    font-weight: 400;
+}
+.allproduct .productBox button{
+    border-radius: 6px;
+    background: #52B80E;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 12px 0;
+}
+.allproduct{
+    width: 100%;
+    height: 100%;
+}
+.paginationbttn{
+    width: 100%;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+}
+.paginationbttn a{
+    width: 42px;
+    height: 42px;
+    border-radius: 8px;
+    border: 2px solid  #A7A7A7;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    color: #A7A7A7;
+}
+.paginationbttn a:hover{
+    background: var(--primarycolor);
+    border: transparent;
+    color: #FFF;
+}
+.previous a{
+    border: transparent;
+}
+.previous a:hover{
+    color: #52B80E;
+    background: transparent;
+}
+.next a{
+    border: transparent;
+}
+.next a:hover{
+    color: #52B80E;
+    background: transparent;
+}
+.pagitationActive a{
+    background: var(--primarycolor);
+    border: transparent;
+    color: #FFF;
+}

@@ -1,0 +1,56 @@
+import { Banner1 } from "./res/Images/image"
+
+export const homeProductdata = [
+    {
+        homeimg:Banner1,
+        homename:"SleutelhangersSleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    },
+    {
+        homeimg:Banner1,
+        homename:"Sleutelhangers",
+    }
+]

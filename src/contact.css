@@ -1,0 +1,81 @@
+.contactPage{
+    width: 100%;
+    height:100%;
+  }
+  .contactPageDesc .contactBoxDesc{
+    width: 780px;;
+    color:black;
+  }
+  .contactPageDesc .contactBoxDesc h1{
+    font-size: 48px;
+    font-weight: 700;
+  } 
+  .contactPageDesc .contactBoxDesc p{
+    color:#A7A7A7;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+  
+  .contactPage .contactBox{
+    width:100%;
+    border-radius: 32px;
+    height:500px;
+    border: 1px solid #D0D0D2;
+    background:#FFFFFF;
+    color:#383838;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .contactPage .contactBox form{
+    width: 100%;
+  }
+  .contactPage .contactBox form input{
+    width:100%;
+    height:50px;
+    border-radius: 8px;
+    border: 1px solid #D0D0D2;
+  }
+.contactPage .contactBox form .remember{
+  color:#A7A7A7;
+  font-size: 18px;
+  font-weight: 400;
+}
+.contactPage .contactBox form button{
+    border-radius: 8px;
+    background:var( --primarycolor);
+    color:#FAFAFA;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .contactPageRight .contactBoxRight{
+    width:90%;
+    border-radius: 32px;
+    height: 500px;
+    color:#FAFAFA;
+    border: 1px solid #D0D0D2;
+    background:#B8E0C7;
+  }
+  .contactPageRight .contactBoxRight h1{
+    color:#FAFAFA;
+    font-size: 38px;
+    font-weight: 700;
+  }
+  .contactPageRight .contactBoxRight .desc{
+    font-size: 24px;
+    font-weight: 400;
+  }
+  .contactPageRight .contactBoxRight .contactVia{
+    font-size: 24px;
+    font-weight: 400;
+  }
+  .contactPageRight .contactBoxRight .contactR {
+    font-size: 24px;
+    font-weight: 700;
+    
+  }
+.contactPageRight  .SocialMediaIcon{
+    color: #FFFFFF;
+    width: 24px;
+    height: 24px;
+  }

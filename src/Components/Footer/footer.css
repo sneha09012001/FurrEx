@@ -1,0 +1,39 @@
+.footer .furrEx p{
+    width: 400px;
+}
+.footer .explore a{
+   font-size: 16px;
+   font-weight: 400;
+}
+.footer .inbox input{
+    width: 245px;
+    height: 50px;
+    border-radius: 6px;
+    border: 1px solid #DDD;
+    color: #949494;
+    padding-left: 10px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.footer .inbox button{
+    border-radius: 6px;
+    border: 1px solid #52B80E;
+    background: #52B80E;
+    color: #FFF;
+    width: 144px;
+    height: 40px;
+}
+.footer .follow a{
+    width: 28px;
+    height: 28px;
+    background:#DBDBDB; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.footer .copyRight span{
+    font-weight: 400;
+    color: rgba(40, 40, 40, 0.80);
+    font-size: 14px;
+}

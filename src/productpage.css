@@ -1,0 +1,85 @@
+.productPage .productBanner .bannerImg{
+    width: 100%;
+    height: 270px;
+    border-radius: 20px;
+    object-fit: cover;
+    position: relative;
+    z-index: 0;
+}
+.productPage .productBanner .bannerImg img{
+    width: 100%;
+    height: 270px;
+    border-radius: 20px;
+}
+.productPage .productBanner .bannerBox{
+    width: 806px;
+    height: 158px;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(4px);
+    position: absolute;
+    color: #000;
+}
+.productPage .productBanner .bannerBox span{
+    font-size: 34px;
+    font-weight: 500;
+}
+.productPage .productOverview .productDescription{
+    width: 255px;
+    height: 941px;
+    border-radius: 16px;
+    border: 1px solid  #A7A7A7;
+    font-size: 14px;
+    font-weight: 400;
+}
+.productPage .productOverview .productDescription span{
+    font-size: 18px;
+    font-weight: 700;
+}
+.productPage .productOverview .productDescription p span{
+    font-size: 14px;
+    font-weight: 400;
+    color: #A7A7A7;
+
+}
+.productPage .productOverview .productDescription .rating button{
+    width: 24px;
+    height: 24px;
+   
+}
+
+.productPage .productOverview .productDescription button{
+    color:  #D8A459;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+.productPage .productOverview .productDescription .categories .categoriesList{ 
+    width: 230px;
+    height: 200px;
+    overflow-y: scroll;    
+}
+.categoriesList::-webkit-scrollbar{
+    width: 6px;
+   
+}
+.categoriesList::-webkit-scrollbar-track {
+    background: #D0D0D2;
+  }
+.categoriesList::-webkit-scrollbar-thumb {
+    background-color: #52B80E ;
+    border-radius: 6px;
+    border: 1px solid #52B80E;
+  }
+.productPage .productDetails span{
+    color: #383838;
+}
+.productPage .productDetails .details {
+    font-size: 18px;
+    font-weight: 500;
+    color: #A7A7A7;
+}
+.productPage .productDetails{
+    width: 100%;
+    justify-content: center;
+}
